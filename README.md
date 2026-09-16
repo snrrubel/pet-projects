@@ -12,4 +12,4 @@ This repo is basically my personal playground: expect a mix of ideas, prototypes
 * 🤖 AI/ML experiments
 * 💡 Random ideas I wanted to try
 
-There's no particular structure or theme — just things I'm working on or exploring.
+There's no particular structure or theme. Just things I'm working on or exploring.
